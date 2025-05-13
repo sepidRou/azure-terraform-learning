@@ -9,3 +9,7 @@ Each week I’ll:
 - Learn about a new Azure service or concept  
 - Write and test Terraform code to deploy it  
 - Document key takeaways in a markdown summary  
+## 📆 Weekly Progress
+| WEEK | TOPIC | STATUS|
+|------|-------|-------|
+|1     |Resource Groups|👍|
