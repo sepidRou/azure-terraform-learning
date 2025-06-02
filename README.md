@@ -13,3 +13,4 @@ Each week I’ll:
 | WEEK | TOPIC | STATUS|
 |------|-------|-------|
 |1     |Resource Groups|👍|
+ 
